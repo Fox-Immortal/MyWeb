@@ -1,0 +1,64 @@
+.bg-dark {
+    background-color: #dd9999 !important;
+}
+.jumbotron {
+  text-align: center;
+  background: none;
+  font-family: monospace;
+}
+.sectionLove {
+    background-color: #dd6666;
+    padding: 2rem;
+}
+.sectionlove {
+    background-color: #dd7777;
+}
+.marry {
+  font-family: cursive;
+  font-style: italic;
+  font-size: 10rem;
+  text-align: center;
+}
+.Wrapper {
+    margin-top: 20px;
+}
+button.coolButton {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+h5.modal-title {
+    margin: auto;
+}
+.modalWrapper {
+    padding: 2rem;
+}
+.imgCenter, .buttonCenter {
+    display: block;
+    margin: auto;
+}
+.buttonCenter {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.img-center {
+    padding: 10px;
+}
+.fa {
+    margin: 10px;
+}
+.socialWrapper {
+    margin: auto;
+}
+.fa-facebook-square {
+    color: #3b5998;
+}
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
